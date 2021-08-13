@@ -1,7 +1,7 @@
 {
-  "name": "-flatism",
+  "name": "version0",
   "version": "0.0.0",
-  "description": "non-flat",
+  "description": "is Null",
   "main": "webpack.config.js",
   "scripts": {
     "precommit": "lint-staged",
@@ -24,7 +24,7 @@
     "null223",
     "css animation"
   ],
-  "repository": "git@github.com:null223/-flatism.git",
+  "repository": "git@github.com:null223/version0.git",
   "author": "null__me <sumida0223@gmail.com>",
   "license": "MIT",
   "dependencies": {
